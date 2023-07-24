@@ -49,10 +49,26 @@ h1 {
     background-color: rgb(255, 255, 255);
 } 
 
+
+
 .products-item:hover {
     outline: 2px solid rgb(0, 0, 0);
    
 }   
+
+.products-item-2 {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+    transition: 0.3s;
+    outline: 2px solid silver;
+    background-color: rgb(255, 255, 255);
+} 
+
+
+
+.products-item-2:hover {
+    outline: 2px solid rgb(0, 0, 0);
+   
+} 
 
 .pd-item {
     text-align: center;
